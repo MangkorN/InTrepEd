@@ -1,4 +1,4 @@
-# InTrepEd LLC
+# InTrepEd, LLC
 
 Our product will guide students through a digital visual learning experience in a
 simulated world. The focus is on building basic skill sets for self-development and for the
